@@ -1,0 +1,245 @@
+.box1 {
+    width: 600px;
+    background-color: black;
+    height: 50px;
+    display: flex;
+    gap: 22px;
+    font-size: 14px;
+
+
+
+
+
+}
+
+.box2 {
+    width: 600px;
+    background-color: black;
+    height: 50px;
+    display: flex;
+
+
+
+
+}
+
+.mainbox {
+    display: flex;
+    margin: auto;
+    width: 1200px;
+
+}
+
+.img {
+    width: 50px;
+    height: 50px;
+    background-image: url(./picture/ubank.webp);
+    background-size: cover;
+
+}
+
+p {
+
+    color: white;
+    position: relative;
+    top: 15px;
+
+
+
+}
+
+.icon {
+    width: max-content;
+    padding: 10px;
+    border: 2px solid rgb(39, 30, 30);
+    height: 20px;
+    border-radius: 10px;
+
+
+
+}
+
+.rightbox {
+    display: flex;
+    color: white;
+    flex-direction: row;
+    position: relative;
+    left: 150px;
+    top: 5px;
+
+
+
+}
+
+.icon1 {
+    border: 2px solid rgb(212, 57, 10);
+    border-radius: 10px;
+    height: 40px;
+
+}
+
+.box3 {
+    width: 1200px;
+    background-color: black;
+    height: 50px;
+    margin: auto;
+
+
+}
+
+.line {
+    display: flex;
+    color: white;
+    gap: 30px;
+    font-size: 23px;
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+
+.box4 {
+    width: 1200px;
+    margin: auto;
+    background-color: black;
+    height: 550px;
+    font-size: 35px;
+
+
+}
+
+h2 {
+    color: white;
+    position: relative;
+    top: 30px;
+}
+
+.boxes1 {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(51, 45, 45);
+    border-radius: 15px;
+
+
+
+}
+
+.flex {
+    display: flex;
+    position: relative;
+    top: 45px;
+    gap: 40px;
+    left: 30px;
+
+}
+
+.boxes2 {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(51, 45, 45);
+    border-radius: 15px;
+
+}
+
+.flex2 {
+    display: flex;
+    position: relative;
+    left: 30px;
+    gap: 40px;
+    top: 70px;
+}
+
+.icon3 {
+    text-align: center;
+    color: rgb(212, 57, 10);
+    top: 40px;
+}
+
+.text3 {
+    font-size: 20px;
+    text-align: center;
+    top: 50px;
+}
+
+.text4 {
+    font-size: 15px;
+    text-align: center;
+    top: 60px;
+}
+
+.h2 {
+    position: relative;
+    left: 10px;
+}
+
+.phone {
+    width: 45px;
+    height: 15px;
+    background-color: beige;
+    position: relative;
+    left: 1060px;
+    font-size: 20px;
+    border-radius: 15px;
+    text-align: right;
+    border: 2px solid white;
+    padding: 10px;
+    bottom: 10px;
+    background-color: black;
+    color: white;
+
+}
+
+#iconphone {
+    font-size: 15px;
+    color: rgb(212, 57, 10);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.lastbox {
+    width: 1200px;
+    height: 200px;
+    margin: auto;
+    background-color: black;
+    display: flex;
+    gap: 10px;
+    padding-top: 140px;
+
+
+
+}
+
+.lastbox1 {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+
+
+}
+
+.txt1 {
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.txt2 {
+    font-size: 10px;
+    text-align: center;
+}
+
+.items {
+    width: 1200px;
+    height: 50px;
+    background-color: black;
+    margin: auto;
+    color: white;
+    font-size: 20px;
+
+
+
+
+
+}
